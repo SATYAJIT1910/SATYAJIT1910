@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## About Me 👨‍🎓
 - 🌱 I’m currently learning Computer Science 😅
-- 📫 How to reach me: satyajit@satyajit.co.in
+- 📫 How to reach me: contact@satyajit.co.in
 
 <br><br><br>
 
