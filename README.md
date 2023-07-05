@@ -28,9 +28,3 @@ Here are some ideas to get you started:
 ## About Me 👨‍🎓
 - 🌱 I’m currently learning Computer Science 😅
 - 📫 How to reach me: contact@satyajit.co.in
-
-<br><br><br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SATYAJIT1910&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="450" />
-  </p>
